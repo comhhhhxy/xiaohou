@@ -1,0 +1,6 @@
+{
+    "files.exclude": {
+        "**/*.dSYM": true,
+        "c++??/lesson??/??": true
+    }
+}
